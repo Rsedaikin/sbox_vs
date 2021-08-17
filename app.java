@@ -2,7 +2,7 @@
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("hello world!" + Feature.calc());
+        System.out.println(Feature.concat("hello world!"));
     }
 
 }

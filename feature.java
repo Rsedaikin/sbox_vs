@@ -4,4 +4,8 @@ public class Feature {
     static int calc() {
         return answer;
     }
+
+    public static String concat(String s) {
+        return (s + " " + calc());
+    }
 }
