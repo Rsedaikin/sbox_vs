@@ -1,5 +1,5 @@
 
-public class feature {
+public class Feature {
     static int calculation() {
         return 42;
     }

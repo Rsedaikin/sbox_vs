@@ -1,5 +1,5 @@
-rm app.java feature.java app.class feature.class
-cp ../app.java app.java
-cp ../feature.java feature.java
+rm App.java Feature.java App.class Feature.class
+cp ../App.java App.java
+cp ../Feature.java Feature.java
 javac -cp . *.java
-java -cp . app
+java -cp . App

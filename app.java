@@ -1,8 +1,8 @@
 
 
-public class app {
+public class App {
     public static void main(String[] args) {
-        System.out.println("hello world!" + feature.calculation());
+        System.out.println("hello world!" + Feature.calculation());
     }
 
 }
