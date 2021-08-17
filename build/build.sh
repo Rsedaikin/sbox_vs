@@ -1,4 +1,4 @@
-rm App.java Feature.java App.class Feature.class
+rm *.java *.class
 cp ../App.java App.java
 cp ../Feature.java Feature.java
 javac -cp . *.java
