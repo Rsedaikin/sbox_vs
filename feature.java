@@ -8,4 +8,8 @@ public class Feature {
     public static String concat(String s) {
         return (s + " " + calc());
     }
+
+    public static String concat(String s) {
+        return (s + " " + calculation());
+    }
 }
