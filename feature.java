@@ -1,7 +1,7 @@
 
 public class Feature {
     static int answer = 42;
-    static int calculation() {
+    static int calc() {
         return answer;
     }
 }
